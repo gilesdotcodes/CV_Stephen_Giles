@@ -1,5 +1,6 @@
 Stephen Giles
 =============
+####_"If you do what you've always done, you'll get what you've always got"_
 
 - [About](#about)
 - [Education](#education)
@@ -11,12 +12,14 @@ Stephen Giles
 
 ##About
 In September 2014 I embarked on a 12 Week Coding Bootcamp with [Makers Academy](http://www.makersacademy.com), which represented a big change in career path and lifestyle. Apart from two C++ Modules completed ten years earlier as part of my Mathematics Degree this was a new challenge and one in which I would learn a lot.
+
 I thoroughly enjoyed the course and the intellectual stimulation that coding provided. With a background in Mathematics, my ability to problem solve and think logically helped me to tackle some aspects of these newly acquired skills. The course was primarily based around Ruby and JavaScript, and I felt that my strengths were coding the 'back-end logic' as well as debugging when errors occurred. That said, the 'front-end' was also something that I found enjoyable and interesting, in particularly working with jQuery.
+
 The sections below should provide more information about what I have achieved prior to this change, but also provide an insight to some of the work and projects I have completed in the last 12 weeks. I am very aware that I have experienced only the tip of a very big iceburg that is 'coding' and am now seeking employment which will allow me to continue to learn and development my skills - whether that be in Web Development, App Development or Software Development.
 
 ##Education
 #### [Makers Academy](http://www.makersacademy.com) (September 2014 - December 2014)
-A 12 Week Immersive Coding Bootcamp. Here I spent 12 weeks learning how to code primarily based around the Ruby and JavaScript languages. I used HTML, CSS and jQuery on the front-end to build Web Applications initially using Sinatra and then Rails. As well as this, I also spent a week learning Swift and Xcode to produce a native iOS App. PostgresSQL was the database used for the majority of projects (with Active Record and DataMapper).
+A 12 Week Immersive Coding Bootcamp. Here I spent 12 weeks learning how to code primarily based around the Ruby and JavaScript languages. I used HTML, CSS and jQuery on the front-end to build Web Applications initially using Sinatra and then Rails. As well as this, I also spent a week learning Swift and Xcode to produce a native iOS App. PostgreSQL was the database used for the majority of projects (with Active Record and DataMapper).
 Makers Academy are very effective at teaching TDD and I used RSpec, Cabybara and Jasmine for testing. We used Git for version control and various APIs including Twilio, GitHub, FaceBook and GoogleMaps.
 I also had some experience with Node.js, Express, Socket.io and Sass.
 
@@ -80,17 +83,17 @@ Various APIs also used including: GitHub, GoogleMaps, Twilio, FaceBook, LinkedIn
 All of my GitHub repositories can be [found here](https://github.com/HatStephens?tab=repositories). Below are some highlights of projects I completed or was part of. All links go to the repository unless stated otherwise. Hopefully they show the progression over the 12 weeks.
 
 At Makers Academy we completed a Final Project during Weeks 11 and 12. In a team of four, we produced three different Apps:
-- [pointr](https://github.com/HatStephens/pointr_iOS_FinalProjectApp) - A native iOS App created using Swift and Xcode. This is an App where you can find your friends and send them 'points' just for fun! You can view the [demonstration video here](https://www.youtube.com/watch?v=5hY-_nNr1mc&list=UU1NQjRun26caQPa6D6j3dsg).
+- [pointr](https://github.com/HatStephens/pointr_iOS_FinalProjectApp) - A native iOS App created using Swift and Xcode. You can find your friends and send them 'points' just for fun! You can view the [demonstration video here](https://www.youtube.com/watch?v=5hY-_nNr1mc&list=UU1NQjRun26caQPa6D6j3dsg).
 - [badgr](https://github.com/HatStephens/FATS_badgr) - A cross-platform Mobile App created using PhoneGap with HTML, CSS, JavaScript and jQuery. Based on the Yo App, however, rather than sending a Yo you can send them a badge! You can view the [demonstration video here](https://www.youtube.com/watch?v=sUN0YaqLpF8&list=UU1NQjRun26caQPa6D6j3dsg).
 - [Rewardr](https://github.com/HatStephens/FATS_Rewardr) - A Web App created using Ruby on Rails with HTML, CSS and jQuery on the front-end. This is a corporate themed App where a company can reward their employees with a Reward. You can view the [site here](https://fast-meadow-6272.herokuapp.com/).
 
-During a three day Makerthon (Week 9 of 12), as part of a team of four, we produced [Jumparound](https://github.com/HatStephens/jumparound). This was a site to help one of our cohort members locate his missing jumper. The site can be [viewed here](http://www.jumparound.info/). We used Ruby on Rails with HTML, CSS, jQuery and Bootstrap. We also used the GoogleMaps API and gmaps.js
+During a three day Makerthon (Week 9 of 12), as part of a team of four, we produced [Jumparound](https://github.com/HatStephens/jumparound). This was a site to help one of our cohort members locate his missing jumper. The site can be [viewed here](http://www.jumparound.info/). We used Ruby on Rails with HTML, CSS, jQuery and Bootstrap. We also used the GoogleMaps API and gmaps.js.
 
 [Rock, Paper, Scissors Version 1](https://github.com/HatStephens/rock-paper-scissors-lizard-spock) - This version was written in Ruby using just HTML and CSS on the front-end during Week 4. [Play it here](http://rpsls-athlone-devs.herokuapp.com/).
 
 [Rock, Paper, Scissors Version 2](https://github.com/HatStephens/RockPaperScissorsOnlineJavaScript) - This was written in JavaScript with jQuery on the front-end during Week 6. [Play it here](https://rps-child-friendly.herokuapp.com/).
 
-I also wrote four Ruby Gems during Week 10. [time_until_break](https://github.com/HatStephens/time_until_break) was a basic gem for my cohort to run in their terminal and it tell them how long was left until our daily break. I then produced [create_awesome_readme](https://github.com/HatStephens/create_awesome_readme) which creates a well structured README template for your projects. Lastly I created [make_me_a_gem_called](https://github.com/HatStephens/make_me_a_gem_called) which creates all the necessary files for people to write a gem themselves. I really enjoyed playing around with these and hope to continue making more in the future.
+I also wrote four Ruby Gems during Week 10. [time_until_break](https://github.com/HatStephens/time_until_break) was a basic gem for my cohort to run in their terminal to find out how long was left until our daily break. I then produced [create_awesome_readme](https://github.com/HatStephens/create_awesome_readme) which creates a well structured README template for your projects. Lastly I created [make_me_a_gem_called](https://github.com/HatStephens/make_me_a_gem_called) which creates all the necessary files for people to write a gem themselves. I really enjoyed playing around with these and hope to continue making more in the future.
 
 ##Personal Interests and Information
 I consider myself a hard-working and dedicated individual who enjoys both learning and teaching new skills. I am also ambitious as I hope can be seen from the progression in my Work Experience, particularly in Education. I have management skills from both Education and Hospitality. I hope that all of these skills and qualities will allow me to continue to be successful within the IT sector.
