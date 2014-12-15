@@ -1,4 +1,4 @@
-Stephen Giles
+Stephen Giles &nbsp;&nbsp;![ruby](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/ruby.png)&nbsp;![JS](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/JavaScript.png)&nbsp;![jQuery](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/jqueryplain.png)&nbsp;![html](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/html5.png)&nbsp;![css](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/css3.png)&nbsp;![swift](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/swift.png)&nbsp;![rails](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/rails.png)&nbsp;![psql](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/postgreSQL.png)&nbsp;![heroku](https://raw.githubusercontent.com/HatStephens/CV_Stephen_Giles/master/Logos%20(50x50)/heroku.png)
 =============
 ####_"If you do what you've always done, you'll get what you've always got"_
 
