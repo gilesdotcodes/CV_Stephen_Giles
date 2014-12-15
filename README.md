@@ -31,3 +31,25 @@ I also had some experience with Node.js, Express, Socket.io and Sass.
 #### The Campion School and Sixth Form (September 1994 - August 2001)
 - _A-Levels: Mathematics (A), English Literature (C), Biology (C), General Studies (B)
 - _GCSEs: 1 A*, 7 As, 2 Bs
+
+## Work Experience
+#### Woking High School, Woking, Surrey (July 2008 - August 2014)
+#### Assistant Principal, Director of Maths and English, Head of Maths, Maths Teacher
+During my PGCE (Teacher Training) in 2007-2008, I completed a placement at Woking High School. During this time they offered me a full-time post as Maths Teacher starting immediately after my training had finished. Woking High is a mixed comprehesive for 1200 11-16 year olds. Upon my arrival, _just over 40% of students achieved an A*-C in their Mathematics GCSE_.
+
+During my first year as a qualified teacher, I was offered the role as Head of Maths. After one year in this role I spent two years as Director of Maths. I then spent the final two years as an Assistant Principal responsible for Maths and English. During my time at Woking High School, Mathematics GCSE results improved every year and in my final year, _81% of students achieved an A*-C in their Mathematics GCSE_.
+#####Key Responsibilities
+- Teaching Mathematics
+- Managing Teams of Staff from Departmental to Whole School level
+- Tracking and monitoring the progress of students
+- Monitoring, supporting and training Staff
+- Communication with parents
+- Organising events, residentials, councils, meetings and INSET training
+
+#### Venn Group, Slough, Berkshire (November 2006 - July 2007)
+#### Recruitment Consultant
+Venn Group specialise in Contract and Temporary Recruitment within the Finance Sector. During my time at Venn Group I was responsible for sourcing roles from clients and then finding and placing candidates in these roles and other roles within the office.
+
+#### Bar163 (Chertsey) and The Glasshouse (Kew) (July 2005 - November 2006)
+#### Restaurant Manager
+From the age of 18 I had always worked behind a bar and was a Duty Manager at Medicine Bar on the Royal Holloway University Campus. When I completed my degree I spent almost 18 months working as a Restaurant Manager.
